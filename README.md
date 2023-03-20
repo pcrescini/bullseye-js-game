@@ -1,7 +1,5 @@
-![Paul C Crescini Logo](assets/img/logo.png)
-
-#paulcrescini.dev - v1
+# Bullseye!
 ---
-This repo contains the first iteration of [paulcrescini.dev](https://paulcrescini.dev) —  an online portfolio showcasing my professional front-end development work along with personal mini projects.
+Bullseye! is a 2D animated physics game built using Vanilla JavaScript, HTML, CSS, and the HTML Canvas element. The game code was created following the guidance of the [freeCodeCamp](https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/) course.
 
-This site is built using HTML, CSS, and vanilla JavaScript.
+Live game: [Bullseye!](https://paulcrescini.dev/examples/web-game/)
